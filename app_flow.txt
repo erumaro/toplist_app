@@ -1,0 +1,17 @@
+First Screen
+    Auth Screen
+    Show button that leads to Spotify login authentication if token is empty or invalid.
+    Redirect to the toplist if token is valid etc.
+
+Second Screen
+    Toplist Screen
+    Shows a list of data pulled from last.fm api.
+    When clicking on an item you are taken to a Spotify screen that uses the data from the 
+    last.fm toplist to display a song.
+
+Third Screen A
+    List Detail / Spotify API song
+
+Third Screen B
+    Logout screen.
+    Revoke tokens and logs you out of Spotify auth.
